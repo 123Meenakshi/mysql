@@ -1,3 +1,3 @@
-CREATE DATABASE employeesdb1111;  
+CREATE DATABASE mysqltest;  
 USE employeesdb;
 EXIT;
